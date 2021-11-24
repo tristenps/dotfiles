@@ -1,0 +1,9 @@
+[user]
+	email = tristenpsieminski@gmail.com
+	name = Tristen Pankake-Sieminski
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
+[alias]
+	pom = pull origin main
